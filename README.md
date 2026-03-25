@@ -1,4 +1,5 @@
 # 💫 About Me:
+Hi, I'm Shreya Katoch
 👨‍💻 I’m currently working on: Building a computational framework for transcription factor (TF) binding prediction using multi-omics data<br><br>🤝 I’m looking to collaborate on: Machine Learning & Deep Learning projects, especially where AI meets biology<br><br>🆘 I’m looking for help with: Enhancing model efficiency and exploring advanced deep learning architectures<br><br>🌱 I’m currently learning: Transformers, Deep Learning, Statistical Learning, and Bioinformatics sequencing<br><br>💬 Ask me about: Machine Learning, Transcriptomics, and applying AI in real-world problems<br><br>⚡ Fun fact: I can step into almost any domain and solve problems using a data-driven AI approach
 
 
