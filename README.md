@@ -1,22 +1,99 @@
-# 💫 About Me:
-Hi, I'm Shreya Katoch<br> <br>
-👨‍💻 I’m currently working on: Building a computational framework for transcription factor (TF) binding prediction using multi-omics data<br><br>🤝 I’m looking to collaborate on: Machine Learning & Deep Learning projects, especially where AI meets biology<br><br>🆘 I’m looking for help with: Enhancing model efficiency and exploring advanced deep learning architectures<br><br>🌱 I’m currently learning: Transformers, Deep Learning, Statistical Learning, and Bioinformatics sequencing<br><br>💬 Ask me about: Machine Learning, Transcriptomics, and applying AI in real-world problems<br><br>⚡ Fun fact: I can step into almost any domain and solve problems using a data-driven AI approach
+<div align="center">
+  <img src="assets/profile-avtar.png" width="150" alt="Shreya Katoch" style="border-radius:50%; border: 2px solid #0A66C2;">
 
+  <h1>Hi, I'm Shreya Katoch</h1>
+  <h3>Data Science &amp; AI Researcher | Bioinformatics | Deep Learning for Multi-Omics</h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreya-katoch) 
+  <p>
+    <a href="https://shreyakat0ch.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
+    <a href="https://github.com/shreyakat0ch" target="_blank"><img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+    <a href="https://linkedin.com/in/shreya-katoch" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="mailto:shreyakat0chh@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  </p>
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=plastic&logo=apachespark&logoColor=black) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=plastic&logo=apachehadoop&logoColor=black) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=plastic&logo=nVIDIA&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=plastic&logo=xbox&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shreyakat0ch&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shreyakat0ch&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyakat0ch&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+## 💫 About Me
+
+I work at the intersection of **bioinformatics, sequencing data, and machine learning**. My research focuses on context-aware regulatory modeling, where the goal is not only to detect biological signals, but to understand whether the surrounding cellular context makes the prediction meaningful.
+
+- 🔭 **I'm currently working on:** Developing computational frameworks for **context-aware transcription factor binding prediction** using ChIP-seq, ATAC-seq, methylome, and RNA-seq data.
+- 👯 **I'm looking to collaborate on:** Open-source bioinformatics workflows, AI for genomics, and data-driven research tools involving multi-omics integration.
+- 🌱 **I'm currently learning:** Better causal modeling strategies, stronger deep learning systems for biological data, and more scalable research pipelines.
+- 💬 **Ask me about:** Python, RNA-seq workflows, machine learning, deep learning, and how data science can be applied to biological research.
+- ⚡ **Fun fact:** I enjoy moving between research questions and practical ML builds, from gene regulation problems to pricing models and automation tools.
+
+<div align="center">
+  <blockquote>
+    <i>"I like solving problems where one data source is never enough, and context is what makes the prediction useful."</i>
+  </blockquote>
+  <p><strong>bioinformatics | multi-omics | regulatory genomics | deep learning | reproducible pipelines</strong></p>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shreyakat0ch&icon=5&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Featured Research Projects
+
+| Project | Description | Links |
+| :--- | :--- | :--- |
+| **Context-Aware TF Predictor** | Computational framework for modeling transcription factor binding using ChIP-seq, ATAC-seq, methylome, and RNA-seq under context-specific regulatory conditions. | [Profile](https://github.com/shreyakat0ch) |
+| **Histone Mark Predictor** | FiLM-conditioned CNN-Transformer jointly predicting ChIP-seq signal intensity and binary presence for five histone marks from DNA and transcriptomic input. | [Repository](https://github.com/shreyakat0ch/histone-mark-predictor) |
+| **Causal Networks (DAG-DeepVASE)** | Genome-wide RNA-seq causal network inference with knockoff selection, graph-based modeling, and directed acyclic orientation. | [Repository](https://github.com/shreyakat0ch/Causal-networks-by-modified-DAG-DeepVASE) |
+| **Causal GRN Pipeline** | Multi-stage gene regulatory network discovery pipeline integrating knockoffs, STRING PPI, GraphSAGE, and DAG scoring at genome scale. | [Repository](https://github.com/shreyakat0ch/causal_grn_pipeline) |
+
+---
+
+## 💻 Tech Stack & Tools
+
+**Languages & Frameworks**
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python">
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R">
+  <img src="https://img.shields.io/badge/Bash_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=Matplotlib&logoColor=black" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/SciPy-0C55A5?style=flat-square&logo=scipy&logoColor=white" alt="SciPy">
+</p>
+
+**Environment & Tools**
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Jupyter-F7931E?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white" alt="Anaconda">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+</p>
+<p>
+  <b>Pipelines & Tools:</b> RNA-seq, CLIP-seq, ChIP-seq, ATAC-seq, STAR, HISAT2, Bowtie2, Piranha, Peakachu, SRA Toolkit, Trimmomatic, fastp, Cutadapt, FastQC, MultiQC. <br>
+  <b>Databases:</b> NCBI Entrez, miRBase, miRNet, TRRUST, DIANA Tools, STARBASE, miRDIP, miRanda, BLAST, Clustal Omega.
+</p>
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=shreyakat0ch&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=shreyakat0ch&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="48%">
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyakat0ch&theme=aura_dark&hide_border=false" alt="GitHub Streak">
+</div>
+<br>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
+</div>
+
+---
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=shreyakat0ch&color=0A66C2&style=flat-square" alt="Profile Views">
+</div>
