@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/profile-avtar.png" width="150" alt="Shreya Katoch" style="border-radius:50%; border: 2px solid #0A66C2;">
+  <img src="assets/1.jpeg" width="150" alt="Shreya Katoch" style="border-radius:50%; border: 2px solid #0A66C2;">
 
   <h1>Hi, I'm Shreya Katoch</h1>
   <h3>Data Science &amp; AI Researcher | Bioinformatics | Deep Learning for Multi-Omics</h3>
